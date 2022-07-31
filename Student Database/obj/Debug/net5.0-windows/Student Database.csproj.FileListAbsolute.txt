@@ -1,0 +1,41 @@
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\Student Database.exe
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\Student Database.deps.json
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\Student Database.runtimeconfig.json
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\Student Database.runtimeconfig.dev.json
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\Student Database.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\ref\Student Database.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\Student Database.pdb
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.csproj.AssemblyReference.cache
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student_Database.Form1.resources
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.csproj.GenerateResource.cache
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.AssemblyInfoInputs.cache
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.AssemblyInfo.cs
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.csproj.CoreCompileInputs.cache
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.dll
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\ref\Student Database.dll
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.pdb
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.genruntimeconfig.cache
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student_Database.Add_Student_Page.resources
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nana_\source\repos\Student Database\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student Database.csproj.CopyComplete
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student_Database.All_Students.resources
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student_Database.Delete_Student.resources
+C:\Users\nana_\source\repos\Student Database\obj\Debug\net5.0-windows\Student_Database.Properties.Resources.resources
